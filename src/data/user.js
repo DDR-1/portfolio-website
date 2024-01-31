@@ -3,7 +3,7 @@ const INFO = {
 		title: "Portfolio website",
 		name: "Devesh D R",
 		email: "deveshdr02@gmail.com",
-		logo: "../logo.png",
+		logo: "https://github.com/DDR-1/portfolio-website/blob/main/public/logo.png?raw=true",
 	},
 
 	socials: {

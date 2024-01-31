@@ -15,7 +15,7 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
-								src="./schneider-electric.png"
+								src="https://github.com/DDR-1/portfolio-website/blob/main/public/schneider-electric.png?raw=true"
 								alt="sechneider-electric"
 								className="work-image"
 							/>
